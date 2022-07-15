@@ -1,2 +1,1 @@
-# AutomationScript
-automation code can be save here
+Assignment given by Client.
